@@ -1,6 +1,8 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-   <H1> Versionamento By: Vinicius</H1>
+   <H1> Git; Feature1 ; By: Vinicius - modificado no dia 29/12</H1>
+   <H1> Versionamento By: Vinicius - modificado as 22:25</H1>
+
 </BODY>
 </HTML>
